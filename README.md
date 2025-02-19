@@ -1,4 +1,4 @@
- Microsoft Logo using HTML & CSS
+## Microsoft Logo using HTML & CSS
 
 A simple **Microsoft Logo Recreation** built using **HTML and CSS**. This project demonstrates how to create the Microsoft logo using only web technologies, without any images.
 
